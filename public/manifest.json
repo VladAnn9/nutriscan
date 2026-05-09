@@ -1,0 +1,16 @@
+{
+  "name": "NutriScan",
+  "short_name": "NutriScan",
+  "description": "The AI Plate Calorie Counter",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#56B17A",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
